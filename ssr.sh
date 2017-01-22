@@ -1,2 +1,2 @@
 cd ~/shadowsocks/shadowsocks
-python server.py -c /root/config.json -d start
+python server.py -c /root/run/config.json -d start

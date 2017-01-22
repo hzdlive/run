@@ -4,8 +4,8 @@
     "local_address": "127.0.0.1",
     "local_port": 1080,
     "port_password":{
-        "18388":"Errors1937",
-        "18389":"Errors1937"
+        "8388":"Errors1937",
+        "8389":"Errors1937"
     },
     "timeout": 300,
     "udp_timeout": 60,
